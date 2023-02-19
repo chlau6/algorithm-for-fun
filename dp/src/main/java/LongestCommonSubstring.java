@@ -18,7 +18,3 @@ public class LongestCommonSubstring {
         solution("abcdaf", "bcdf", 6, 4);
     }
 }
-
-/*
-Exercises 6.11 (Substring instead of Subsequence)
- */
