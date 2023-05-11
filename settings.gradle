@@ -1,3 +1,6 @@
 rootProject.name = 'algorithm'
 include 'dp'
+include 'graph'
+include 'library'
+include 'number'
 
